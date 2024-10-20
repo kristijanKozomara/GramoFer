@@ -17,15 +17,24 @@ Kratko opisati cilj Vašeg projekta. Vaša motivacija?  (Napomena: odgovor nije 
 
 # Funkcijski zahtjevi
 > Pregled objavljenih gramofonskih ploča neregistriranim i registriranim korisnicima (neregistrirani korisnici mogu koristiti samo ovu funkcionalnost)
+> 
 > Objava gramofonskih ploča s navedenom oznakom izdanja, nazivom albuma, izvođačem, godinom izdanja, glazbenim žanrom, stanjem ploče, stanjem omota prema Goldmine standardu, fotografijom ploče, lokacijom i dodatnim opisom
+> 
 > Registracija s osobnim podacima kroz aplikaciju važećom e-mail adresom
 > Pregled "Moje ploče"
+> 
 > Filtriranje po kategorijama
+> 
 > Pretraživanje preko trake za pretraživanje (po izvođaču ili albumu)
+> 
 > Zamjena ploča te dolazak tog zahtjeva u pregledu "Ponude" i dolazak ponude na e-mail adresu s poveznicom na tu ponudu
+> 
 > Moguća promjena uvjeta zamjena ploča
+> 
 > Stvaranje popisa želja te sustavski odziv na popis želja kada se ona pojavi u sustavu
+>
 > Arhiviranje svih zamjena u pregledu "Moje zamjene"
+> 
 > Implementacija uloge "Administrator", ovlasti: uređivanje oglasa i upravljanje korisnicima (deaktivacija korisničkog računa)
 
 # Tehnologije
