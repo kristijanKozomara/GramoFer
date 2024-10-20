@@ -8,7 +8,7 @@
 > Zašto ovaj dokument? Samo manji dio timova je do sada propoznao potrebu (a i meni je lakše pratiti Vaš rad).  
 
 # Opis projekta
-Ovaj projekt je reultat timskog rada u sklopu projeknog zadatka kolegija [Programsko inženjerstvo](https://www.fer.unizg.hr/predmet/proinz) na Fakultetu elektrotehnike i računarstva Sveučilišta u Zagrebu. 
+Ovaj projekt je rezultat timskog rada u sklopu projeknog zadatka kolegija [Programsko inženjerstvo](https://www.fer.unizg.hr/predmet/proinz) na Fakultetu elektrotehnike i računarstva Sveučilišta u Zagrebu. 
 
 Kratko opisati cilj Vašeg projekta. Vaša motivacija?  (Napomena: odgovor nije »Zato što je to bio zadatak i nismo imali ideje za drugo.«). Koji problem rješavate?
 > Obzirom da je ovo zadani projekt navedite i što želite/jeste novo  naučili.
@@ -16,10 +16,20 @@ Kratko opisati cilj Vašeg projekta. Vaša motivacija?  (Napomena: odgovor nije 
 > Dobro izrađen opis omogućuje vam da pokažete svoj rad drugim programerima, kao i potencijalnim poslodavcima. Ne samo da prvi dojam na stranici opisa često razlikuje dobar projekt od lošeg projekta već i predstavlja dobru praksu koju morate savladati.
 
 # Funkcijski zahtjevi
-> Navedite ključne zahtjeve Vašeg projekta.
-
+> Pregled objavljenih gramofonskih ploča neregistriranim i registriranim korisnicima (neregistrirani korisnici mogu koristiti samo ovu funkcionalnost)
+> Objava gramofonskih ploča s navedenom oznakom izdanja, nazivom albuma, izvođačem, godinom izdanja, glazbenim žanrom, stanjem ploče, stanjem omota prema Goldmine standardu, fotografijom ploče, lokacijom i dodatnim opisom
+> Registracija s osobnim podacima kroz aplikaciju važećom e-mail adresom
+> Pregled "Moje ploče"
+> Filtriranje po kategorijama
+> Pretraživanje preko trake za pretraživanje (po izvođaču ili albumu)
+> Zamjena ploča te dolazak tog zahtjeva u pregledu "Ponude" i dolazak ponude na e-mail adresu s poveznicom na tu ponudu
+> Moguća promjena uvjeta zamjena ploča
+> Stvaranje popisa želja te sustavski odziv na popis želja kada se ona pojavi u sustavu
+> Arhiviranje svih zamjena u pregledu "Moje zamjene"
+> Implementacija uloge "Administrator", ovlasti: uređivanje oglasa i upravljanje korisnicima (deaktivacija korisničkog računa)
 
 # Tehnologije
+
 
 #Instalcija
 # Članovi tima 
