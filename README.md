@@ -38,9 +38,11 @@ Kratko opisati cilj Vašeg projekta. Vaša motivacija?  (Napomena: odgovor nije 
 > Implementacija uloge "Administrator", ovlasti: uređivanje oglasa i upravljanje korisnicima (deaktivacija korisničkog računa)
 
 # Tehnologije
+> Front-end: HTML5, CSS3, React.js
+> Back-end: Spring Boot (Java)
+> Baza podataka: PostgreSQL
+> Geolokacijski serveri: OpenStreetMap
 
-
-#Instalcija
 # Članovi tima 
 > Amar Omeragić, Kristijan Kozomara, Josip Rončević, Lovro Kasunić, Sami Perković, Jurica Galić, Tomislav Peraković
 
