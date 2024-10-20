@@ -10,10 +10,8 @@
 # Opis projekta
 Ovaj projekt je rezultat timskog rada u sklopu projeknog zadatka kolegija [Programsko inženjerstvo](https://www.fer.unizg.hr/predmet/proinz) na Fakultetu elektrotehnike i računarstva Sveučilišta u Zagrebu. 
 
-Kratko opisati cilj Vašeg projekta. Vaša motivacija?  (Napomena: odgovor nije »Zato što je to bio zadatak i nismo imali ideje za drugo.«). Koji problem rješavate?
-> Obzirom da je ovo zadani projekt navedite i što želite/jeste novo  naučili.
-
-> Dobro izrađen opis omogućuje vam da pokažete svoj rad drugim programerima, kao i potencijalnim poslodavcima. Ne samo da prvi dojam na stranici opisa često razlikuje dobar projekt od lošeg projekta već i predstavlja dobru praksu koju morate savladati.
+> Cilj projekta je olakšati razmjenu gramofonskih ploča između ljudi. Izradom web stranice i dodavanjem različitih funkcionalnosti, očekujemo da ćemo uvelike pomoći svim ljubiteljima gramofonskih ploča. Također, kroz projekt ćemo naučiti kako se koriste alati potrebni za pokretanje same stranice.
+> 
 
 # Funkcijski zahtjevi
 > Pregled objavljenih gramofonskih ploča neregistriranim i registriranim korisnicima (neregistrirani korisnici mogu koristiti samo ovu funkcionalnost)
