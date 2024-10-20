@@ -39,8 +39,11 @@ Kratko opisati cilj Vašeg projekta. Vaša motivacija?  (Napomena: odgovor nije 
 
 # Tehnologije
 > Front-end: HTML5, CSS3, React.js
+> 
 > Back-end: Spring Boot (Java)
+> 
 > Baza podataka: PostgreSQL
+> 
 > Geolokacijski serveri: OpenStreetMap
 
 # Članovi tima 
