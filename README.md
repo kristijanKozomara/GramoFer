@@ -40,9 +40,17 @@ Ovaj projekt je rezultat timskog rada u sklopu projeknog zadatka kolegija [Progr
 > 
 > Back-end: Spring Boot (Java)
 > 
-> Baza podataka: PostgreSQL
+> Baza podataka: H2
 > 
 > Geolokacijski serveri: OpenStreetMap
+>
+> Dizajn: Adobe Photoshop
+>
+> Modeliranje, oblikovanje i dokumentiranje sustava: Astah
+>
+> Dokumentacija: Github Wiki
+>
+> Deployment: Azure
 
 # Članovi tima 
 > Amar Omeragić, Kristijan Kozomara, Josip Rončević, Lovro Kasunić, Sami Perković, Jurica Galić, Tomislav Peraković
