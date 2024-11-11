@@ -5,24 +5,21 @@ function Header() {
       <div className={[styles.main_column, styles.row].join(" ")}>
         <h1>GramoFER</h1>
       </div>
+      <div></div>
       <div
         className={[styles.main_column, styles.row, styles.site_links].join(
           " "
         )}
       >
         <div>
-          <h3>MOJE PLOČE</h3>
+          <h2>Ponude</h2>
         </div>
         <div>
-          <h3>PONUDE</h3>
+          <h2>Moje ploče</h2>
         </div>
         <div>
-          <h3>MOJE ZAMJENE</h3>
+          <h2>Moje zamjene</h2>
         </div>
-      </div>
-      <div className={(styles.main_column, styles.row)}>
-        <h3>Korisničko ime</h3>
-        <button>PRIJAVA</button>
       </div>
     </div>
   );

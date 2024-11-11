@@ -1,13 +1,16 @@
 .header{
-  width: 100%;
+  margin-left: 4vw;
+  margin-right: 4vw;
+  width: 1fr;
   height: 12vh;
-  background-color:#BDEDE0;
   display: grid;
-  grid-template-columns: 20% 50% 1fr;
+  grid-template-columns: 20% 20% 1fr;
   gap: 10px;
+  color: black;
   align-items: center;
   border-bottom: 1px solid black;
   font-family: 'Open Sans', sans-serif;
+  padding-bottom: 20px;
 }
 .main_column{
   font-family: 'Open Sans', sans-serif;
@@ -21,6 +24,11 @@
   color: white;
   -webkit-text-stroke: 1px black;
   font-size: 36px;
+  transition: text-shadow 0.35s ease;
+}
+.main_column > h1:hover{
+  text-shadow: rgba(240, 255, 255, 0.751) 1px 0 10px;
+  cursor: pointer;
 }
 .row{
   display: flex;
@@ -28,28 +36,30 @@
   justify-content: center;
 }
 .site_links {
+  height: fit-content;
+  color: black;
   gap: 5px;
   display: grid;
   grid-template-columns: 33% 33% 33%;
 }
-.site_links > div {
-  border-left: 0px solid transparent; 
-  border-right: 0px solid transparent; 
-  transition: border-right 0.35s ease, border-left 0.35s ease, background-color 0.35s ease; 
+.site_links > div { 
+  transition: border-right 0.35s ease, border-left 0.35s ease, text-shadow 0.35s ease; 
 }
-
+.site_links > div > h2 {
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+}
 .site_links > div:hover {
-  background-color: #BBDBD1;
-  border-right: 1px solid black; 
-  border-left: 1px solid black; 
+  text-shadow: rgba(240, 255, 255, 0.751) 1px 0 10px;
+  cursor: pointer;
 }
 button{
   font-weight: 500;
   margin-left: 10px;
   align-self: center;
   height: 30px;
-  width: 80px;
-  background-color: #BBDBD1;
+  width: fit-content;
+  background-color: white;
   border-radius: 5px;
 }
 button:hover{
